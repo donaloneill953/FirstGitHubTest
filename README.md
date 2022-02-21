@@ -5,3 +5,5 @@ Now I'm editing a second line
 
 
 This is adding a second line
+
+Now added a third line in VS  code at 10:21
